@@ -6,13 +6,16 @@
 
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun2948)](https://github.com/varun2948/react-slingshot)
 ---
 [![HOTOSM-FMTM](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=fmtm)](https://github.com/hotosm/fmtm)
-[![OSMSG](https://github-readme-stats.vercel.app/api/pin/?username=kshitijrajsharma&repo=OSMSG)](https://github.com/kshitijrajsharma/OSMSG)
-[![Advance Todo App (JAVA)](https://github-readme-stats.vercel.app/api/pin/?username=varun2948&repo=DMA)](https://github.com/varun2948/DMA)
----
-[workingon]: https://fmtm.hotosm.org
-[twitter]: https://twitter.com/nrj_adkry
-[instagram]: https://www.instagram.com/nirajadkry/
-[linkedin]: https://www.linkedin.com/in/niraj-adhikari-a7185515b/
+[![OSM FIELDWORK](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=osm-fieldwork)](https://github.com/hotosm/osm-fieldwork)
+
+### Connect with me:
+
+[<img align="left" alt="varun2948 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="varun2948 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="varun2948 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
