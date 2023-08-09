@@ -7,15 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun2948)](https://github.com/varun2948/react-slingshot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrjadkry)](https://github.com/varun2948/react-slingshot)
 ---
 [![HOTOSM-FMTM](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=fmtm)](https://github.com/hotosm/fmtm)
 [![OSM FIELDWORK](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=osm-fieldwork)](https://github.com/hotosm/osm-fieldwork)
-
-### Connect with me:
-
-[<img align="left" alt="varun2948 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="varun2948 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="varun2948 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
