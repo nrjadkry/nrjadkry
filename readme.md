@@ -10,5 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrjadkry)](https://github.com/varun2948/react-slingshot)
 ---
 [![OSM FIELDWORK](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=osm-fieldwork)](https://github.com/hotosm/osm-fieldwork)
-[![TILECLIPPER](https://github-readme-stats.vercel.app/api/pin/?username=sijandh35&repo=tileclipper)](https://github.com/hotosm/osm-fieldwork)
+[![TILECLIPPER](https://github-readme-stats.vercel.app/api/pin/?username=sijandh35&repo=tileclipper)](https://github.com/sijandh35/tileclipper)
 [![HOTOSM-FMTM](https://github-readme-stats.vercel.app/api/pin/?username=hotosm&repo=fmtm)](https://github.com/hotosm/fmtm)
+[![NEPALI_DATE_UTILS](https://github-readme-stats.vercel.app/api/pin/?username=nrjadkry&repo=nepali-date-utils)](https://github.com/nrjadkry/nepali-date-utils)
+
